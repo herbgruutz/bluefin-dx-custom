@@ -20,3 +20,6 @@ rpm-ostree install vlc
 #### Example for enabling a System Unit File
 
 systemctl enable podman.socket
+
+## Brew installs
+brew install nvim eza yt-dlp
