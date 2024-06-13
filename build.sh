@@ -22,4 +22,4 @@ rpm-ostree install vlc
 systemctl enable podman.socket
 
 ## Brew installs
-brew install nvim eza yt-dlp
+# brew install nvim eza yt-dlp
